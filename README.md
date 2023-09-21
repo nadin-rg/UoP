@@ -1,2 +1,2 @@
 # UoP
-Thos repository includes the Programming assignments develop by for the asociated computer scienes degree of Uniersity of the people
+This repository includes the Programming assignments developed by for the associated computer sciences degree of University of the People
